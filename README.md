@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Rudroju Badrinath 👋
 
-<!--
-**BadrinathRudroju/BadrinathRudroju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with a strong focus on backend engineering. I believe in learning by doing, and I am currently focused on mastering core backend concepts by building clean, functional RESTful APIs.
 
-Here are some ideas to get you started:
+### 🚀 What I Am Building
+* **Robust CRUD APIs:** Developing solid backend foundations with layered architecture.
+* **Data Integrity:** Implementing strict data validation and global exception handling.
+* **Version Control:** Maintaining consistent Git hygiene and structured commit messages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+* **Languages:** Java
+* **Frameworks:** Spring Boot
+* **Tools & Practices:** REST APIs, Postman, Git/GitHub, mysql
+
+### 🌱 Currently Learning
+* Expanding my knowledge of security (JWT) and relational database design.
+* Transitioning from basic monolithic architectures to microservices.
+
+📫 **Let's Connect:** [www.linkedin.com/in/rudroju-badrinath] | [rudrojubadrinath27@gmail.com]
