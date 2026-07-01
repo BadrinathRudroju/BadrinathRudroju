@@ -3,7 +3,7 @@
 I am a software developer with a strong focus on backend engineering. I believe in learning by doing, and I am currently focused on mastering core backend concepts by building clean, functional RESTful APIs.
 
 ### 🚀 What I Am Building
-* **Robust CRUD APIs:** Developing solid backend foundations with layered architecture.
+* **Robust APIs:** Developing solid backend foundations with layered architecture.
 * **Data Integrity:** Implementing strict data validation and global exception handling.
 * **Version Control:** Maintaining consistent Git hygiene and structured commit messages.
 
@@ -12,8 +12,6 @@ I am a software developer with a strong focus on backend engineering. I believe 
 * **Frameworks:** Spring Boot
 * **Tools & Practices:** REST APIs, Postman, Git/GitHub, mysql
 
-### 🌱 Currently Learning
-* Expanding my knowledge of security (JWT) and relational database design.
-* Transitioning from basic monolithic architectures to microservices.
+
 
 📫 **Let's Connect:** [www.linkedin.com/in/rudroju-badrinath] | [rudrojubadrinath27@gmail.com]
